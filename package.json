@@ -1,7 +1,0 @@
-{
-  "name": "alina-socialfi",
-  "private": true,
-  "workspaces": [
-    "apps/web"
-  ]
-}
