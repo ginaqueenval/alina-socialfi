@@ -1,0 +1,7 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "installCommand": "cd valbri-site && npm install",
+  "buildCommand": "cd valbri-site && npm run build",
+  "outputDirectory": "valbri-site/dist",
+  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
+}

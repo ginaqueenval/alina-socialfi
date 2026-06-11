@@ -1,0 +1,611 @@
+{
+  "header": {
+    "brand": "valbri",
+    "brandSubtitle": "Gaming Marketplace",
+    "nav": {
+      "fc26": "FC26 Store",
+      "about": "About",
+      "contact": "Contact",
+      "fc26Menu": {
+        "coins": "Buy Coins",
+        "players": "Buy Players",
+        "sbc": "SBC Service",
+        "packs": "Buy Packs",
+        "all": "Browse the FC26 Store"
+      }
+    },
+    "buyBtn": "Shop FC26",
+    "accountLabel": "Player Account",
+    "cart": "Cart",
+    "checkout": "My Orders",
+    "back": "Back"
+  },
+  "footer": {
+    "copyright": "© {{year}} valbri",
+    "terms": "Terms",
+    "privacy": "Privacy"
+  },
+  "language": {
+    "english": "English",
+    "chinese": "中文"
+  },
+  "home": {
+    "eyebrow": "FC26 · Ultimate Team",
+    "heroLine1": "Focused on FC26",
+    "heroLine2": "Coin Trading.",
+    "tagline": "Encrypted end to end. Delivered fast. Engineered to keep your account safe — from checkout to coins in hand, every step stays clear and rock-solid.",
+    "pill": {
+      "encrypted": "Encrypted",
+      "fast": "Fast Delivery",
+      "safe": "Account Safe"
+    },
+    "stickyBar": {
+      "title": "FC 26 Coins"
+    },
+    "cta": "Shop Packages",
+    "ctaShort": "Shop",
+    "scrollHint": "Scroll to explore",
+    "howToBuy": {
+      "eyebrow": "How To Buy",
+      "title": "How to buy",
+      "subtitle": "Here are the detailed steps for purchasing FC 26 Coins on Valbri.",
+      "step1": "On the Valbri home page, choose your preferred language.",
+      "step2": "Sign in to your Valbri account, or create a new one if you don't have it yet.",
+      "step3": "Click \"Shop Packages\" on the home page to enter the FC 26 Coins page.",
+      "step4": "Pick your platform — PlayStation, Xbox, or PC.",
+      "step5": "Choose the FC coin bundle you want and adjust the quantity.",
+      "step6": "Tap \"Checkout\", select your preferred payment method (Stripe / PayPal), and complete payment.",
+      "step7": "Submit the required game account info and wait for our manual delivery.",
+      "compact": {
+        "step1": "Create your account and pick your platform.",
+        "step2": "Choose a product and add it to your cart.",
+        "step3": "Check out securely with your preferred payment method.",
+        "step4": "Sit back — delivery starts within minutes."
+      }
+    },
+    "precautions": {
+      "eyebrow": "Before You Buy",
+      "title": "Before you buy",
+      "subtitle": "Please read and confirm the following before placing your order — it makes delivery smoother and keeps your account safer.",
+      "item1": {
+        "title": "Unlock the Transfer Market",
+        "desc": "Before continuing, please make sure you've unlocked the Transfer Market in FUT Web or the Companion App."
+      },
+      "item2": {
+        "title": "Minimum Coin Requirement",
+        "desc": "Please make sure you have at least 3,000 FC Coins in-game as starting capital. The more coins on the account, the faster and safer the delivery. If you don't have enough FC 26 Coins yet, try selling some unused player cards or playing a few matches to build up a balance."
+      },
+      "item3": {
+        "title": "Avoid Cross-Platform Buying",
+        "desc": "Within 24 hours before and 48 hours after a Valbri transaction, please avoid buying FC 26 Coins from other platforms to reduce the risk of being banned."
+      },
+      "item4": {
+        "title": "Don't Log In During Delivery",
+        "desc": "Please don't sign in to FC 26 (game, Web App, or Mobile App) while a delivery is in progress, so the process stays smooth."
+      },
+      "item5": {
+        "title": "Post-Trade Security",
+        "desc": "After a successful trade, please change your account password immediately and remove any unrecognized trusted devices to harden your account."
+      }
+    },
+    "guarantee": {
+      "eyebrow": "Service Guarantee",
+      "title": "Service guarantee",
+      "subtitle": "From checkout to coins in hand, we've got you covered.",
+      "items": {
+        "noFee": {
+          "title": "No 5% Fee",
+          "desc": "Skip the 5% EA transfer fee — every coin you buy lands in your wallet."
+        },
+        "fastDelivery": {
+          "title": "Safe & Fast Delivery",
+          "desc": "Coins are sourced through manual in-game runs — the supply chain stays clean and reliable."
+        },
+        "afterSale": {
+          "title": "Stress-Free After-Sales",
+          "desc": "Within warranty: if coins get clawed back, we top them up; if you get banned, we refund in full."
+        },
+        "warranty7d": {
+          "title": "7-Day Warranty",
+          "desc": "Extended coverage — if your order triggers an in-game ban within 7 days of delivery, refunds and other remedies apply."
+        }
+      }
+    },
+    "whyUs": {
+      "eyebrow": "Why Choose Us",
+      "title": "Why pick Valbri?",
+      "subtitle": "Every delivery is engineered with the care of a software craftsman.",
+      "items": {
+        "secure": {
+          "title": "100% Secure",
+          "desc": "Efficient, professional, and safe transactions with your data fully protected — 100% secure."
+        },
+        "support": {
+          "title": "24/7 Support",
+          "desc": "Our reliable support team is on call around the clock — before, during, and after your purchase."
+        },
+        "refund": {
+          "title": "Full Refund Guarantee",
+          "desc": "We offer the most competitive prices and efficient delivery. If your order doesn't arrive or can't be used, we promise a 100% refund."
+        }
+      }
+    },
+    "closing": {
+      "title": "Ready to start your FC 26 journey?",
+      "subtitle": "Pick a pack, pay, and your coins land in minutes."
+    },
+    "badge": "FC26 packages live — Stripe & PayPal available",
+    "title": "FC26 Ultimate Team Coins —",
+    "titleHighlight": " fast & secure",
+    "titleEnd": " delivery",
+    "description": "Valbri is a gaming marketplace focused on FC26 coins and selected game services. Check out with Stripe or PayPal and get your coins in minutes.",
+    "viewPackages": "View FC26 Packages",
+    "browseGames": "Browse Games",
+    "features": {
+      "guarantee": {
+        "title": "72h Guarantee",
+        "desc": "Support after delivery"
+      },
+      "safe": {
+        "title": "Safe Methods",
+        "desc": "Manual transfer only"
+      },
+      "pricing": {
+        "title": "Clear Pricing",
+        "desc": "Packages + bonus gift"
+      },
+      "gateway": {
+        "title": "Stripe & PayPal",
+        "desc": "Trusted global checkout"
+      }
+    },
+    "featuredTitle": "Featured Packages",
+    "featuredSubtitle": "FC26 Ultimate Team Coins",
+    "live": "Live",
+    "coins": "Coins",
+    "gift": "Gift",
+    "eta": "Delivery ETA: {{eta}}",
+    "usd": "USD",
+    "addToCart": "Add to Cart",
+    "addedToCart": "Added to cart!",
+    "addToCartFailed": "Failed to add",
+    "paymentNotice": "Check out with Stripe or PayPal and get your coins delivered within minutes.",
+    "gamesTitle": "Games",
+    "gamesDesc": "We currently focus on FC26, and also support the following games.",
+    "comingSoon": "Page & pricing: coming soon",
+    "categories": {
+      "eyebrow": "FC26 Store",
+      "title": "Shop by category",
+      "subtitle": "Four ways to power up your Ultimate Team — pick what your club needs.",
+      "items": {
+        "coins": {
+          "title": "Buy Coins",
+          "desc": "Instant coin packages for PlayStation, Xbox and PC."
+        },
+        "players": {
+          "title": "Buy Players",
+          "desc": "Meta players delivered straight to your club."
+        },
+        "sbc": {
+          "title": "SBC Service",
+          "desc": "We complete squad building challenges for you."
+        },
+        "packs": {
+          "title": "Buy Packs",
+          "desc": "Pack openings with guaranteed contents."
+        }
+      }
+    },
+    "featured": {
+      "eyebrow": "Featured",
+      "title": "Best sellers right now",
+      "subtitle": "The most popular picks across coins, players, SBCs and packs.",
+      "view": "View",
+      "viewAll": "View the full store",
+      "coinTag": "Top Seller"
+    }
+  },
+  "fc26": {
+    "title": "FC26 Ultimate Team Coins",
+    "description": "Select your platform and package. Click",
+    "descriptionHighlight": "Buy",
+    "descriptionEnd": "to checkout.",
+    "payment": "Payment:",
+    "paymentProvider": "Lava",
+    "selectPlatform": "Select Platform",
+    "packages": "Packages",
+    "coins": "Coins",
+    "gift": "Gift",
+    "eta": "ETA: {{eta}}",
+    "buy": "Buy",
+    "addToCart": "Add to Cart",
+    "checkoutNow": "Checkout Now",
+    "total": "Total",
+    "addedToCart": "Added to cart",
+    "addToCartFailed": "Failed to add to cart",
+    "widgetNotSet": "Widget not set",
+    "noPackages": "No packages available for this platform.",
+    "recentOrders": "Recent Orders",
+    "noRecentOrders": "No order history yet",
+    "viewAllOrders": "View All Orders →",
+    "orderStatus": {
+      "pending": "Pending",
+      "paid": "Paid",
+      "cancelled": "Cancelled",
+      "refunded": "Refunded"
+    },
+    "faqTitle": "Trust & Safety",
+    "faq": {
+      "security": {
+        "title": "72-Hour Guarantee",
+        "desc": "All orders are covered by a 72-hour after-delivery guarantee. Contact us anytime if issues arise."
+      },
+      "delivery": {
+        "title": "Fast Delivery",
+        "desc": "Once payment is confirmed, coins will be delivered to your account within the estimated time shown."
+      },
+      "payment": {
+        "title": "Secure Payment",
+        "desc": "Powered by Stripe with full encryption. We accept major credit cards for a safe checkout experience."
+      },
+      "privacy": {
+        "title": "Privacy Protection",
+        "desc": "Your personal information and transaction data are strictly protected and never shared with third parties."
+      }
+    },
+    "beforeYouBuy": "Before you buy"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "description": "Payments are currently disabled in the MVP. A bank payment gateway will be integrated after the website is finalized and approved.",
+    "loading": "Loading cart item...",
+    "loadFailed": "Failed to load cart item",
+    "status": "Status",
+    "bankGateway": "Bank gateway:",
+    "comingSoon": "Coming soon",
+    "orderSummary": "Order Summary",
+    "platform": "Platform",
+    "coins": "Coins",
+    "gift": "Gift",
+    "eta": "ETA",
+    "total": "Total",
+    "noOrder": "No checkout item. Please select a package from",
+    "noOrderLink": "your cart",
+    "noOrderEnd": ".",
+    "package": "Package",
+    "currency": "Currency",
+    "submitOrder": "Submit Order",
+    "payViaWidget": "Pay via Widget",
+    "orderCreated": "Order Created!",
+    "orderNo": "Order No",
+    "quantity": "Quantity",
+    "createOrderFailed": "Failed to create order",
+    "accessDenied": "Access Denied",
+    "accessDeniedDesc": "This order does not exist or you do not have permission to access it."
+  },
+  "cart": {
+    "title": "Cart",
+    "subtitle": "Review selected packages and submit orders one by one with the current business flow.",
+    "loading": "Loading cart...",
+    "loadFailed": "Failed to load cart",
+    "updateFailed": "Failed to update cart",
+    "removeFailed": "Failed to remove item",
+    "empty": "Your cart is empty. Pick an FC26 package to get started.",
+    "goBuy": "Browse Packages",
+    "summary": "Cart Summary",
+    "summaryHint": "The cart only stores selections temporarily. Please checkout one package at a time; final price, coins, and platform availability are revalidated at checkout.",
+    "totalItems": "Total quantity",
+    "coins": "Coins",
+    "gift": "Gift",
+    "bonusIncluded": "Bonus included",
+    "eta": "ETA",
+    "checkout": "Checkout",
+    "remove": "Remove",
+    "staticSection": "Service items",
+    "staticNotice": "These items are fulfilled by our team. After checkout of coins, contact support to complete these orders — delivery is arranged personally.",
+    "completeViaSupport": "Complete via support"
+  },
+  "about": {
+    "title": "About Valbri",
+    "description1": "Valbri is an online gaming marketplace focused on FC26 Ultimate Team coins and selected game services. Our goal is to provide fast, reliable, and user-friendly delivery with a transparent ordering process.",
+    "description2": "This website is currently operating in MVP mode. Payments are disabled, and a bank payment gateway will be integrated after the website is finalized and approved.",
+    "notice": "Company details and legal information will be added during the final launch phase."
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "For business inquiries, support, or partnership requests, please contact us using the information below.",
+    "email": "Email",
+    "responseTime": "Support response time: within 24 hours"
+  },
+  "terms": {
+    "title": "Terms & Conditions",
+    "intro": "Welcome to Valbri. By accessing or using this website, you agree to be bound by the following terms and conditions.",
+    "serviceScope": {
+      "title": "Service Scope",
+      "content": "Valbri operates as a gaming marketplace focused on FC26 Ultimate Team coins and selected game-related services. This website is currently operating in MVP mode."
+    },
+    "payments": {
+      "title": "Payments",
+      "content": "Payments are currently disabled. A bank payment gateway will be integrated after the website is finalized and approved."
+    },
+    "userResponsibilities": {
+      "title": "User Responsibilities",
+      "content": "Users are responsible for providing accurate information when submitting orders and must not share unnecessary or sensitive account details."
+    },
+    "changes": {
+      "title": "Changes",
+      "content": "Valbri reserves the right to update or modify these terms at any time."
+    },
+    "lastUpdated": "Last updated: {{date}}"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "intro": "Valbri respects your privacy and is committed to protecting your personal information.",
+    "collect": {
+      "title": "Information We Collect",
+      "content": "During the MVP phase, we may collect basic contact information such as name and email address when users submit an order or inquiry."
+    },
+    "use": {
+      "title": "Use of Information",
+      "content": "Collected information is used solely for communication, order processing, and service improvement purposes."
+    },
+    "security": {
+      "title": "Payments & Security",
+      "content": "No payment information is collected at this stage. Secure bank payment processing will be introduced after approval."
+    },
+    "sharing": {
+      "title": "Data Sharing",
+      "content": "Valbri does not sell or share personal data with third parties."
+    },
+    "lastUpdated": "Last updated: {{date}}"
+  },
+  "auth": {
+    "loginTitle": "Player Login",
+    "registerTitle": "Create Account",
+    "username": "Username",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "email": "Email",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "createAccount": "Create Account",
+    "signingIn": "Signing In",
+    "creatingAccount": "Creating",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "rememberMe": "Remember me",
+    "loginSuccess": "Login successful!",
+    "registerSuccess": "Registration successful! Please sign in.",
+    "loginFailed": "Login failed",
+    "registerFailed": "Registration failed",
+    "passwordMismatch": "Passwords do not match",
+    "usernameTooShort": "Username must be at least 3 characters",
+    "passwordTooShort": "Password must be at least 6 characters",
+    "captcha": "Captcha",
+    "captchaPlaceholder": "Enter captcha",
+    "captchaRequired": "Please enter the captcha",
+    "refreshCaptcha": "Refresh captcha",
+    "showPassword": "Show password",
+    "hidePassword": "Hide password",
+    "heroKicker": "LIVE NEON NET",
+    "heroTitleLine1": "Secure access",
+    "heroTitleLine2": "for players.",
+    "holoTitle": "Valbri Match Grid",
+    "holoSubtitle": "NEON ROUTE ONLINE",
+    "logout": "Logout",
+    "logoutConfirmTitle": "Confirm Logout",
+    "logoutConfirm": "Are you sure you want to log out?",
+    "logoutConfirmBtn": "Logout",
+    "cancel": "Cancel",
+    "login": "Login",
+    "sessionExpiredTitle": "Session Expired",
+    "sessionExpiredDesc": "Your session has timed out. Please sign in again to continue.",
+    "reLogin": "Sign In Again"
+  },
+  "announcement": {
+    "title": "Announcements"
+  },
+  "cs": {
+    "title": "Valbri Support",
+    "launch": "Open support",
+    "loading": "Connecting to support...",
+    "empty": "Start the conversation here. Guest users can also chat with support.",
+    "placeholder": "Type your message...",
+    "send": "Send",
+    "sending": "Sending",
+    "sendFailed": "Failed to send message",
+    "loadFailed": "Failed to load support session",
+    "sessionAccessDenied": "This support session expired. Please close it and open support again.",
+    "sessionClosed": "This support session has been closed.",
+    "connected": "Live support",
+    "polling": "Reconnect mode",
+    "viewHistory": "View message history",
+    "loadingHistory": "Loading history...",
+    "noMoreHistory": "No more message history",
+    "you": "You",
+    "support": "Support",
+    "sendImage": "Send image",
+    "addAttachment": "Add attachment",
+    "addImage": "Album",
+    "imageAlt": "Support image",
+    "imageTypeInvalid": "Only JPG, PNG, and WEBP images are supported",
+    "imageTooLarge": "Image size cannot exceed 5MB"
+  },
+  "notes": {
+    "bestSeller": "Best Seller",
+    "popular": "Popular",
+    "bestValue": "Best Value",
+    "fastDelivery": "Fast Delivery",
+    "highVolume": "High Volume",
+    "vip": "VIP",
+    "maxPack": "Max Pack"
+  },
+  "orders": {
+    "title": "My Orders",
+    "subtitle": "View your purchase history and order status.",
+    "loading": "Loading...",
+    "empty": "No orders yet. ",
+    "goBuy": "Go buy now",
+    "coins": "Coins",
+    "gift": "Gift",
+    "tab": {
+      "all": "All",
+      "pending": "Pending",
+      "paid": "Paid",
+      "cancelled": "Cancelled",
+      "refunded": "Refunded",
+      "pendingPayment": "Pending Payment",
+      "accountRequired": "Account Info Required",
+      "processing": "Processing",
+      "completed": "Completed",
+      "closed": "Cancelled/Refunded"
+    },
+    "status": {
+      "pending": "Pending",
+      "paid": "Paid",
+      "cancelled": "Cancelled",
+      "refunded": "Refunded"
+    },
+    "delivery": {
+      "pendingDelivery": "Pending",
+      "delivering": "Delivering",
+      "completed": "Completed"
+    },
+    "progress": {
+      "percent": "{{percent}}%",
+      "steps": {
+        "submitted": "Order Submitted",
+        "paid": "Payment Complete",
+        "accountInfo": "Info Submitted",
+        "processing": "Processing",
+        "completed": "Completed"
+      },
+      "status": {
+        "pendingPayment": "Awaiting Payment",
+        "accountRequired": "Please Submit Transaction Account Info",
+        "waitingProcessing": "We Are Processing Your Order",
+        "processing": "We Are Processing Your Order",
+        "completed": "Transaction Completed",
+        "cancelled": "Order Cancelled",
+        "refunded": "Order Refunded"
+      },
+      "desc": {
+        "pendingPaymentDesc": "Please complete payment. After payment succeeds, we will continue processing your order.",
+        "accountRequiredDesc": "Payment is complete. Please submit transaction account info so the order can continue.",
+        "waitingProcessingDesc": "Your info has been submitted. We are processing your order, please watch the progress.",
+        "processingDesc": "We are processing your order. Please keep the account info available and watch the progress.",
+        "completedDesc": "The transaction is complete. Contact live support if you need help.",
+        "cancelledDesc": "This order was cancelled. You can choose a package and place a new order.",
+        "refundedDesc": "This order was refunded. Arrival time depends on the payment provider."
+      }
+    },
+    "accountInfo": {
+      "missing": "Account Info Required",
+      "submitted": "Account Info Submitted",
+      "fillAction": "Fill",
+      "viewAction": "View/Edit",
+      "loadingAction": "Loading",
+      "fillHint": "Click to enter transaction account info",
+      "viewHint": "Click to view or edit transaction account info",
+      "warning": "This order has no transaction account info yet. Please click Account Info Required to fill it in, otherwise the transaction cannot be completed.",
+      "bannerCount_one": "You have {{count}} paid order awaiting account info.",
+      "bannerCount_other": "You have {{count}} paid orders awaiting account info.",
+      "bannerGuide": "Click the \"Account Info Required\" button on each order to fill in."
+    }
+  },
+  "payment": {
+    "stripePay": "Stripe Payment",
+    "paypalPay": "PayPal Payment",
+    "widgetPay": "Widget Payment",
+    "successTitle": "Payment Successful!",
+    "successDesc": "Your payment has been processed. We will deliver your coins shortly.",
+    "confirmingTitle": "Confirming Payment Status",
+    "confirmingDesc": "We received the return from Stripe and are waiting for the webhook to finalize the result. This usually takes 1 to 2 seconds.",
+    "confirmingShort": "Confirming",
+    "pendingTitle": "Payment Still Confirming",
+    "pendingDesc": "Your payment was submitted, but the final confirmation has not arrived yet. Please check your orders page shortly.",
+    "confirmFailedTitle": "Unable to Confirm Payment",
+    "confirmFailedDesc": "We could not fetch the latest payment result right now. Please check your orders page shortly.",
+    "confirmFailedShort": "Check Failed",
+    "confirmMissing": "Missing payment confirmation parameters",
+    "sessionId": "Stripe Session",
+    "realStatus": "Live Status",
+    "deliveryStatus": "Delivery Status",
+    "cancelTitle": "Payment Cancelled",
+    "cancelDesc": "Your payment was not completed. You can try again from your orders page.",
+    "orderNo": "Order No",
+    "viewOrders": "View My Orders",
+    "backHome": "Back to Home",
+    "creating": "Creating payment...",
+    "notConfigured": "Payment service is being configured. Please try again later.",
+    "failed": "Failed to create payment session",
+    "confirmFailed": "Failed to confirm payment status"
+  },
+  "orderAccount": {
+    "badge": "Delivery Info",
+    "title": "Enter EA Account Info",
+    "viewTitle": "Transaction Account Info",
+    "desc": "This order is paid. Please enter your EA account email, password, and backup code so we can continue delivery.",
+    "viewDesc": "You have submitted transaction account info for this order. You can view it or edit and resubmit.",
+    "encryptedNotice": "The EA account email, password, and backup code you enter are encrypted. You can fill them in with confidence.",
+    "gameAccount": "Your EA Account Email",
+    "gamePassword": "Your EA Account Password",
+    "backupCodes": "Backup Code",
+    "submittedTime": "Submitted/Updated Time",
+    "required": "EA account email, password, and backup code are all required.",
+    "backupCodesNumeric": "Backup code can contain numbers only, not letters or symbols.",
+    "loadFailed": "Failed to load game account info. Please try again later.",
+    "saveFailed": "Failed to save game account info. Please try again later.",
+    "loading": "Loading account info...",
+    "saving": "Saving...",
+    "submit": "Submit Account Info",
+    "resubmit": "Resubmit",
+    "edit": "Edit Account Info",
+    "cancelEdit": "Cancel Edit",
+    "showPassword": "Show full password",
+    "hidePassword": "Hide full password",
+    "close": "Close account info prompt"
+  },
+  "mockPayment": {
+    "sandbox": "Mock payment environment",
+    "title": "{{provider}} Mock Checkout",
+    "provider": "Payment Provider",
+    "success": "Simulate Success",
+    "cancel": "Cancel Payment",
+    "missingOrder": "Order number is missing, so the mock payment cannot continue.",
+    "failed": "Failed to update mock payment status"
+  },
+  "badges": {
+    "hot": "Hot",
+    "bestValue": "Best Value",
+    "new": "New"
+  },
+  "category": {
+    "selectPlatform": "Select your platform",
+    "addToCart": "Add to Cart",
+    "added": "Added to cart",
+    "from": "From",
+    "eta": "ETA {{eta}}",
+    "rating": "OVR",
+    "requirements": "Requirements",
+    "emptyState": "No products available for this platform yet."
+  },
+  "fc26Hub": {
+    "eyebrow": "FC26 · Ultimate Team",
+    "title": "The FC26 Store",
+    "subtitle": "Coins, ready-made players, SBC completion and pack openings — everything your club needs, delivered fast and safe.",
+    "browse": "Browse"
+  },
+  "players": {
+    "title": "Buy FC26 Players",
+    "description": "Hand-picked meta players delivered straight to your club. Pick your platform, choose a player and we handle the transfer safely."
+  },
+  "sbc": {
+    "title": "FC26 SBC Completion Service",
+    "description": "Our pro traders complete squad building challenges for you — cheap, fast and without risking your squad."
+  },
+  "packs": {
+    "title": "Buy FC26 Packs",
+    "description": "Pack openings on your account with guaranteed contents. Choose a bundle and watch the walkouts roll in."
+  }
+}

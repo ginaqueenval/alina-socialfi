@@ -1,0 +1,611 @@
+{
+  "header": {
+    "brand": "valbri",
+    "brandSubtitle": "游戏交易平台",
+    "nav": {
+      "fc26": "FC26 商店",
+      "about": "关于我们",
+      "contact": "联系我们",
+      "fc26Menu": {
+        "coins": "购买金币",
+        "players": "购买球员",
+        "sbc": "SBC 代肝",
+        "packs": "购买卡包",
+        "all": "浏览 FC26 商店"
+      }
+    },
+    "buyBtn": "选购 FC26",
+    "accountLabel": "玩家账号",
+    "cart": "购物车",
+    "checkout": "我的订单",
+    "back": "返回"
+  },
+  "footer": {
+    "copyright": "© {{year}} valbri",
+    "terms": "服务条款",
+    "privacy": "隐私政策"
+  },
+  "language": {
+    "english": "English",
+    "chinese": "中文"
+  },
+  "home": {
+    "eyebrow": "FC26 · Ultimate Team",
+    "heroLine1": "专注 FC26",
+    "heroLine2": "金币交易",
+    "tagline": "全程信息加密，订单交付迅速，账号安全有保障。从下单到到账，每一步都清晰可见、稳如磐石。",
+    "pill": {
+      "encrypted": "信息加密",
+      "fast": "极速交付",
+      "safe": "账号无忧"
+    },
+    "stickyBar": {
+      "title": "FC 26 金币"
+    },
+    "cta": "选购套餐",
+    "ctaShort": "选购",
+    "scrollHint": "滚动了解更多",
+    "howToBuy": {
+      "eyebrow": "How To Buy",
+      "title": "如何购买",
+      "subtitle": "以下是如何在 Valbri 购买 FC 26 金币的详细步骤。",
+      "step1": "在 Valbri 首页，选择您偏好的语言。",
+      "step2": "登入您的 Valbri 帐户，或者如果您尚未拥有帐户，请创建一个帐户。",
+      "step3": "在首页点击「选购套餐」进入 FC 26 金币页面。",
+      "step4": "选择您的平台（PlayStation、Xbox 或 PC）。",
+      "step5": "选择您想购买的 FC 金币套装并调整数量。",
+      "step6": "点击「立即结算」，选择您偏好的付款方式（Stripe / PayPal），然后完成付款。",
+      "step7": "提交所需的游戏账户信息并等待我们手动交付。",
+      "compact": {
+        "step1": "创建账户并选择您的平台。",
+        "step2": "选择商品并加入购物车。",
+        "step3": "使用您偏好的支付方式安全结账。",
+        "step4": "稍等片刻——几分钟内开始交付。"
+      }
+    },
+    "precautions": {
+      "eyebrow": "Before You Buy",
+      "title": "购买前注意事项",
+      "subtitle": "在下单前，请阅读并确认以下事项，这能让交付更顺利、账号更安全。",
+      "item1": {
+        "title": "解锁转会市场",
+        "desc": "在继续之前，请确保您已在 FUT Web 或 Companion App 上解锁转会市场。"
+      },
+      "item2": {
+        "title": "最低硬币要求",
+        "desc": "请确保您的游戏中至少有 3000 FC 金币作为起始资金。帐户中的金币越多，订单交付的速度和安全性就越高。如果您没有足够的 FC 26 金币，请尝试先出售一些未使用的球员卡或玩几场游戏以累积更多硬币。"
+      },
+      "item3": {
+        "title": "避免跨平台购买",
+        "desc": "在 Valbri 交易前 24 小时和后 48 小时内，请避免在其他平台购买 FC 26 金币，以降低被封禁的风险。"
+      },
+      "item4": {
+        "title": "交易期间请勿登入",
+        "desc": "在交易期间，请勿登入 FC 26 游戏、Web App 或 Mobile App，以确保交付过程顺利。"
+      },
+      "item5": {
+        "title": "交易后安全性",
+        "desc": "在成功交易后，请立即更改您的帐户密码并移除受信设备中的未认可设备，以加强帐户安全性。"
+      }
+    },
+    "guarantee": {
+      "eyebrow": "Service Guarantee",
+      "title": "服务保障",
+      "subtitle": "从下单到到账，全流程为您兜底。",
+      "items": {
+        "noFee": {
+          "title": "免 5% 手续费",
+          "desc": "金币交易过程中，无需支付球员转会 5% 手续费，所购金币全额到账。"
+        },
+        "fastDelivery": {
+          "title": "安全快速发货",
+          "desc": "通过人工方式在游戏内正规打金，来源可控、安全可靠。"
+        },
+        "afterSale": {
+          "title": "售后无忧保障",
+          "desc": "质保有效期内，发生扣金我们将为您补发金币；邮件收信封号提供全额退款。"
+        },
+        "warranty7d": {
+          "title": "7 天售后保障",
+          "desc": "超长质保时效，发货后 7 天内因订单导致游戏内封号等问题，支持退款等售后处理。"
+        }
+      }
+    },
+    "whyUs": {
+      "eyebrow": "Why Choose Us",
+      "title": "为什么选择 Valbri？",
+      "subtitle": "我们用一颗工程师的心打磨每一次金币交付。",
+      "items": {
+        "secure": {
+          "title": "100% 交易安全",
+          "desc": "我们保证高效、专业和安全的交易，全面保护您的数据 —— 100% 安全。"
+        },
+        "support": {
+          "title": "24/7 客户服务",
+          "desc": "可靠的客服团队全天候为您提供快速便捷的帮助，无论购买前、购买中还是购买后。"
+        },
+        "refund": {
+          "title": "全额退款保障",
+          "desc": "Valbri 提供最具竞争力的价格与高效发货。如商品未送达或无法使用，我们承诺 100% 退款。"
+        }
+      }
+    },
+    "closing": {
+      "title": "准备好开启你的 FC 26 旅程了吗？",
+      "subtitle": "选择套餐，完成支付，金币几分钟内即可到账。"
+    },
+    "badge": "FC26 套餐已上线 — Stripe & PayPal 已开放",
+    "title": "FC26 Ultimate Team 金币 —",
+    "titleHighlight": " 快速安全",
+    "titleEnd": " 交付",
+    "description": "Valbri 是一个专注于 FC26 金币和精选游戏服务的游戏交易平台,支持 Stripe 与 PayPal 快速结算,金币几分钟内到账。",
+    "viewPackages": "查看 FC26 套餐",
+    "browseGames": "浏览游戏",
+    "features": {
+      "guarantee": {
+        "title": "72小时保障",
+        "desc": "交付后支持"
+      },
+      "safe": {
+        "title": "安全方式",
+        "desc": "仅手动转移"
+      },
+      "pricing": {
+        "title": "透明定价",
+        "desc": "套餐 + 赠送礼物"
+      },
+      "gateway": {
+        "title": "Stripe & PayPal",
+        "desc": "全球可信结算"
+      }
+    },
+    "featuredTitle": "精选套餐",
+    "featuredSubtitle": "FC26 Ultimate Team 金币",
+    "live": "在线",
+    "coins": "金币",
+    "gift": "礼物",
+    "eta": "预计交付时间: {{eta}}",
+    "usd": "美元",
+    "addToCart": "加入购物车",
+    "addedToCart": "已加入购物车！",
+    "addToCartFailed": "加入失败",
+    "paymentNotice": "支持 Stripe 与 PayPal 结算,金币几分钟内即可到账。",
+    "gamesTitle": "游戏",
+    "gamesDesc": "我们目前专注于 FC26，同时也支持以下游戏。",
+    "comingSoon": "页面和定价：即将推出",
+    "categories": {
+      "eyebrow": "FC26 商店",
+      "title": "按分类选购",
+      "subtitle": "四种方式强化您的终极球队——按需选择。",
+      "items": {
+        "coins": {
+          "title": "购买金币",
+          "desc": "PlayStation、Xbox、PC 即时金币套餐。"
+        },
+        "players": {
+          "title": "购买球员",
+          "desc": "热门球员直接送达您的俱乐部。"
+        },
+        "sbc": {
+          "title": "SBC 代肝",
+          "desc": "我们为您代完成阵容挑战。"
+        },
+        "packs": {
+          "title": "购买卡包",
+          "desc": "内容有保障的卡包开启服务。"
+        }
+      }
+    },
+    "featured": {
+      "eyebrow": "精选",
+      "title": "当前热卖",
+      "subtitle": "金币、球员、SBC 与卡包中最受欢迎的选择。",
+      "view": "查看",
+      "viewAll": "查看完整商店",
+      "coinTag": "热销"
+    }
+  },
+  "fc26": {
+    "title": "FC26 Ultimate Team 金币",
+    "description": "选择您的平台和套餐。点击",
+    "descriptionHighlight": "购买",
+    "descriptionEnd": "进行结算。",
+    "payment": "支付方式：",
+    "paymentProvider": "Lava",
+    "selectPlatform": "选择平台",
+    "packages": "套餐",
+    "coins": "金币",
+    "gift": "礼物",
+    "eta": "预计时间: {{eta}}",
+    "buy": "购买",
+    "addToCart": "加入购物车",
+    "checkoutNow": "立即结算",
+    "total": "总价",
+    "addedToCart": "已加入购物车",
+    "addToCartFailed": "加入购物车失败",
+    "widgetNotSet": "小工具未设置",
+    "noPackages": "该平台暂无可用套餐。",
+    "recentOrders": "最近订单",
+    "noRecentOrders": "暂无订单记录",
+    "viewAllOrders": "查看全部订单 →",
+    "orderStatus": {
+      "pending": "待支付",
+      "paid": "已支付",
+      "cancelled": "已取消",
+      "refunded": "已退款"
+    },
+    "faqTitle": "安全保障",
+    "faq": {
+      "security": {
+        "title": "72小时保障",
+        "desc": "所有订单交付后享有72小时售后保障，如有问题随时联系我们处理。"
+      },
+      "delivery": {
+        "title": "快速交付",
+        "desc": "订单支付成功后，金币将在标注的预计时间内快速送达您的账户。"
+      },
+      "payment": {
+        "title": "安全支付",
+        "desc": "采用 Stripe 国际支付网关，支持主流信用卡，全程加密保护您的支付安全。"
+      },
+      "privacy": {
+        "title": "隐私保护",
+        "desc": "您的个人信息和交易数据受到严格保护，绝不向第三方泄露。"
+      }
+    },
+    "beforeYouBuy": "购买须知"
+  },
+  "checkout": {
+    "title": "结算",
+    "description": "MVP 阶段目前禁用支付功能。银行支付网关将在网站最终确定和批准后集成。",
+    "loading": "正在加载购物车商品...",
+    "loadFailed": "购物车商品加载失败",
+    "status": "状态",
+    "bankGateway": "银行网关：",
+    "comingSoon": "即将推出",
+    "orderSummary": "订单摘要",
+    "platform": "平台",
+    "coins": "金币",
+    "gift": "礼物",
+    "eta": "预计时间",
+    "total": "总价",
+    "noOrder": "暂无可结算商品。请先从",
+    "noOrderLink": "购物车",
+    "noOrderEnd": "选择套餐。",
+    "package": "套餐",
+    "currency": "币种",
+    "submitOrder": "提交订单",
+    "payViaWidget": "通过 Widget 支付",
+    "orderCreated": "订单创建成功！",
+    "orderNo": "订单号",
+    "quantity": "数量",
+    "createOrderFailed": "创建订单失败",
+    "accessDenied": "无权访问",
+    "accessDeniedDesc": "该订单不存在或您无权访问。"
+  },
+  "cart": {
+    "title": "购物车",
+    "subtitle": "管理您已选中的套餐，并按当前业务流程逐条提交订单。",
+    "loading": "正在加载购物车...",
+    "loadFailed": "购物车加载失败",
+    "updateFailed": "更新购物车失败",
+    "removeFailed": "移除购物车商品失败",
+    "empty": "购物车还是空的，去挑选一个合适的 FC26 套餐吧。",
+    "goBuy": "去选购",
+    "summary": "购物车汇总",
+    "summaryHint": "购物车仅用于暂存商品。请按单个套餐逐条结算；实际订单价格、金币数和平台可用性以下单时最新套餐数据为准。",
+    "totalItems": "商品数量",
+    "coins": "金币",
+    "gift": "赠送",
+    "bonusIncluded": "含赠送加成",
+    "eta": "预计时间",
+    "checkout": "去结算",
+    "remove": "移除",
+    "staticSection": "服务类商品",
+    "staticNotice": "这些商品由我们的团队人工完成。请在结账后联系客服完成订单——交付将由专人安排。",
+    "completeViaSupport": "联系客服完成"
+  },
+  "about": {
+    "title": "关于 Valbri",
+    "description1": "Valbri 是一个专注于 FC26 Ultimate Team 金币和精选游戏服务的在线游戏交易平台。我们的目标是提供快速、可靠、用户友好的交付体验和透明的订单流程。",
+    "description2": "本网站目前处于 MVP 模式运行。支付功能已禁用，银行支付网关将在网站最终确定和批准后集成。",
+    "notice": "公司详情和法律信息将在最终上线阶段添加。"
+  },
+  "contact": {
+    "title": "联系我们",
+    "description": "如有业务咨询、支持或合作请求，请使用以下信息联系我们。",
+    "email": "电子邮箱",
+    "responseTime": "支持响应时间：24小时内"
+  },
+  "terms": {
+    "title": "服务条款",
+    "intro": "欢迎使用 Valbri。访问或使用本网站即表示您同意受以下条款和条件的约束。",
+    "serviceScope": {
+      "title": "服务范围",
+      "content": "Valbri 作为游戏交易平台运营，专注于 FC26 Ultimate Team 金币和精选游戏相关服务。本网站目前处于 MVP 模式运行。"
+    },
+    "payments": {
+      "title": "支付",
+      "content": "目前支付功能已禁用。银行支付网关将在网站最终确定和批准后集成。"
+    },
+    "userResponsibilities": {
+      "title": "用户责任",
+      "content": "用户有责任在提交订单时提供准确的信息，并且不得分享不必要或敏感的账户详情。"
+    },
+    "changes": {
+      "title": "变更",
+      "content": "Valbri 保留随时更新或修改这些条款的权利。"
+    },
+    "lastUpdated": "最后更新：{{date}}"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "intro": "Valbri 尊重您的隐私，并致力于保护您的个人信息。",
+    "collect": {
+      "title": "我们收集的信息",
+      "content": "在 MVP 阶段，我们可能会在用户提交订单或咨询时收集基本的联系信息，如姓名和电子邮件地址。"
+    },
+    "use": {
+      "title": "信息使用",
+      "content": "收集的信息仅用于沟通、订单处理和服务改进目的。"
+    },
+    "security": {
+      "title": "支付与安全",
+      "content": "此阶段不收集支付信息。安全的银行支付处理将在批准后推出。"
+    },
+    "sharing": {
+      "title": "数据共享",
+      "content": "Valbri 不会向第三方出售或共享个人数据。"
+    },
+    "lastUpdated": "最后更新：{{date}}"
+  },
+  "auth": {
+    "loginTitle": "玩家登录",
+    "registerTitle": "创建账号",
+    "username": "用户名",
+    "password": "密码",
+    "confirmPassword": "确认密码",
+    "email": "邮箱",
+    "signIn": "登录",
+    "signUp": "注册",
+    "createAccount": "创建账号",
+    "signingIn": "登录中",
+    "creatingAccount": "创建中",
+    "noAccount": "还没有账号？",
+    "hasAccount": "已有账号？",
+    "rememberMe": "记住我",
+    "loginSuccess": "登录成功！",
+    "registerSuccess": "注册成功！请登录。",
+    "loginFailed": "登录失败",
+    "registerFailed": "注册失败",
+    "passwordMismatch": "两次密码不一致",
+    "usernameTooShort": "用户名至少3个字符",
+    "passwordTooShort": "密码至少6个字符",
+    "captcha": "验证码",
+    "captchaPlaceholder": "请输入验证码",
+    "captchaRequired": "请输入验证码",
+    "refreshCaptcha": "点击刷新验证码",
+    "showPassword": "显示密码",
+    "hidePassword": "隐藏密码",
+    "heroKicker": "LIVE NEON NET",
+    "heroTitleLine1": "Secure access",
+    "heroTitleLine2": "for players.",
+    "holoTitle": "Valbri Match Grid",
+    "holoSubtitle": "NEON ROUTE ONLINE",
+    "logout": "退出登录",
+    "logoutConfirmTitle": "确认退出",
+    "logoutConfirm": "确定要退出登录吗？",
+    "logoutConfirmBtn": "退出",
+    "cancel": "取消",
+    "login": "登录",
+    "sessionExpiredTitle": "登录已过期",
+    "sessionExpiredDesc": "您的登录状态已超时，请重新登录以继续操作。",
+    "reLogin": "重新登录"
+  },
+  "announcement": {
+    "title": "公告"
+  },
+  "cs": {
+    "title": "Valbri 在线客服",
+    "launch": "打开客服",
+    "loading": "正在连接客服...",
+    "empty": "从这里开始对话，未登录游客也可以直接咨询。",
+    "placeholder": "请输入消息...",
+    "send": "发送",
+    "sending": "发送中",
+    "sendFailed": "消息发送失败",
+    "loadFailed": "客服会话加载失败",
+    "sessionAccessDenied": "当前客服会话已失效，请关闭后重新打开客服窗口",
+    "sessionClosed": "当前客服会话已关闭",
+    "connected": "在线客服",
+    "polling": "重连模式",
+    "viewHistory": "查看历史记录",
+    "loadingHistory": "加载历史消息...",
+    "noMoreHistory": "没有更多历史消息",
+    "you": "我",
+    "support": "客服",
+    "sendImage": "发送图片",
+    "addAttachment": "添加附件",
+    "addImage": "相册",
+    "imageAlt": "客服图片",
+    "imageTypeInvalid": "仅支持 JPG、PNG、WEBP 图片",
+    "imageTooLarge": "图片大小不能超过 5MB"
+  },
+  "notes": {
+    "bestSeller": "热销",
+    "popular": "人气推荐",
+    "bestValue": "超值",
+    "fastDelivery": "快速交付",
+    "highVolume": "大额",
+    "vip": "VIP",
+    "maxPack": "最大套餐"
+  },
+  "orders": {
+    "title": "我的订单",
+    "subtitle": "查看您的购买记录和订单状态。",
+    "loading": "加载中...",
+    "empty": "暂无订单。",
+    "goBuy": "去选购",
+    "coins": "金币",
+    "gift": "赠送",
+    "tab": {
+      "all": "全部",
+      "pending": "待支付",
+      "paid": "已支付",
+      "cancelled": "已取消",
+      "refunded": "已退款",
+      "pendingPayment": "待支付",
+      "accountRequired": "待填写资料",
+      "processing": "处理中",
+      "completed": "已完成",
+      "closed": "取消/退款"
+    },
+    "status": {
+      "pending": "待支付",
+      "paid": "已支付",
+      "cancelled": "已取消",
+      "refunded": "已退款"
+    },
+    "delivery": {
+      "pendingDelivery": "待发货",
+      "delivering": "发货中",
+      "completed": "已完成"
+    },
+    "progress": {
+      "percent": "{{percent}}%",
+      "steps": {
+        "submitted": "提交订单",
+        "paid": "完成支付",
+        "accountInfo": "提交资料",
+        "processing": "处理中",
+        "completed": "已完成"
+      },
+      "status": {
+        "pendingPayment": "等待支付",
+        "accountRequired": "请填写交易账户信息",
+        "waitingProcessing": "正在为您处理",
+        "processing": "正在为您处理",
+        "completed": "交易已完成",
+        "cancelled": "订单已取消",
+        "refunded": "订单已退款"
+      },
+      "desc": {
+        "pendingPaymentDesc": "请完成支付，支付成功后我们会继续处理您的订单。",
+        "accountRequiredDesc": "支付已完成，请提交交易账户信息，否则交易无法成功。",
+        "waitingProcessingDesc": "资料已提交，我们正在为您处理订单，请留意进度。",
+        "processingDesc": "订单正在为您处理中，请保持账户信息可用并留意进度。",
+        "completedDesc": "交易已完成，如有问题可联系在线客服。",
+        "cancelledDesc": "订单已取消，可重新选择套餐后再次下单。",
+        "refundedDesc": "订单已退款，款项到账时间以支付渠道为准。"
+      }
+    },
+    "accountInfo": {
+      "missing": "待填写账号信息",
+      "submitted": "账号信息已提交",
+      "fillAction": "填写",
+      "viewAction": "查看/修改",
+      "loadingAction": "读取中",
+      "fillHint": "点击填写交易账户信息",
+      "viewHint": "点击查看或修改交易账户信息",
+      "warning": "当前订单暂未填写交易账户信息，请点击待填写账号信息按钮填写交易账户信息，否则交易无法成功",
+      "bannerCount_one": "您有 {{count}} 个已付款订单需要填写账号信息",
+      "bannerCount_other": "您有 {{count}} 个已付款订单需要填写账号信息",
+      "bannerGuide": "请点击订单中的「待填写账号信息」按钮进行填写。"
+    }
+  },
+  "payment": {
+    "stripePay": "Stripe 支付",
+    "paypalPay": "PayPal 支付",
+    "widgetPay": "Widget 支付",
+    "successTitle": "支付成功！",
+    "successDesc": "您的支付已处理完成，我们将尽快为您发货。",
+    "confirmingTitle": "正在确认支付状态",
+    "confirmingDesc": "我们已收到支付完成回跳，正在等待 Stripe webhook 同步最终结果，通常只需 1 到 2 秒。",
+    "confirmingShort": "确认中",
+    "pendingTitle": "支付结果确认中",
+    "pendingDesc": "支付已提交，但系统暂未完成最终确认。请稍后前往订单页查看最新状态。",
+    "confirmFailedTitle": "支付状态确认失败",
+    "confirmFailedDesc": "当前无法拉取最新支付结果，请稍后前往订单页查看。",
+    "confirmFailedShort": "确认失败",
+    "confirmMissing": "缺少支付确认参数",
+    "sessionId": "Stripe Session",
+    "realStatus": "真实状态",
+    "deliveryStatus": "发货状态",
+    "cancelTitle": "支付已取消",
+    "cancelDesc": "您的支付未完成，可以从订单页面重新发起支付。",
+    "orderNo": "订单号",
+    "viewOrders": "查看我的订单",
+    "backHome": "返回首页",
+    "creating": "正在创建支付...",
+    "notConfigured": "支付服务正在配置中，请稍后再试。",
+    "failed": "创建支付会话失败",
+    "confirmFailed": "支付状态确认失败"
+  },
+  "orderAccount": {
+    "badge": "发货资料",
+    "title": "填写EA账户信息",
+    "viewTitle": "交易账户信息",
+    "desc": "该订单已支付。请填写您EA账户的电子邮件、密码和备份码，资料提交后我们才能继续为您发货。",
+    "viewDesc": "您已提交该订单的交易账户信息，可查看或修改后重新提交。",
+    "encryptedNotice": "所填写的EA账户电子邮件、密码和备份码均已加密，请放心填写。",
+    "gameAccount": "您EA账户的电子邮件",
+    "gamePassword": "您EA账户的密码",
+    "backupCodes": "备份码",
+    "submittedTime": "提交/更新时间",
+    "required": "EA账户电子邮件、密码和备份码都必须填写。",
+    "backupCodesNumeric": "备份码只能填写数字，不能包含文字或其他符号。",
+    "loadFailed": "读取游戏账号信息失败，请稍后再试。",
+    "saveFailed": "保存游戏账号信息失败，请稍后再试。",
+    "loading": "正在读取账号信息...",
+    "saving": "正在保存...",
+    "submit": "提交账号信息",
+    "resubmit": "重新提交",
+    "edit": "修改账号信息",
+    "cancelEdit": "取消修改",
+    "showPassword": "显示完整密码",
+    "hidePassword": "隐藏完整密码",
+    "close": "关闭账号信息弹窗"
+  },
+  "mockPayment": {
+    "sandbox": "模拟支付环境",
+    "title": "{{provider}} 模拟结账",
+    "provider": "支付渠道",
+    "success": "模拟支付成功",
+    "cancel": "取消支付",
+    "missingOrder": "缺少订单号，无法继续模拟支付。",
+    "failed": "模拟支付状态更新失败"
+  },
+  "badges": {
+    "hot": "热卖",
+    "bestValue": "超值",
+    "new": "新品"
+  },
+  "category": {
+    "selectPlatform": "选择您的平台",
+    "addToCart": "加入购物车",
+    "added": "已加入购物车",
+    "from": "低至",
+    "eta": "预计 {{eta}}",
+    "rating": "评分",
+    "requirements": "要求",
+    "emptyState": "该平台暂无可用商品。"
+  },
+  "fc26Hub": {
+    "eyebrow": "FC26 · 终极球队",
+    "title": "FC26 商店",
+    "subtitle": "金币、现成球员、SBC 代完成、卡包开启——您的俱乐部所需的一切，快速安全送达。",
+    "browse": "浏览"
+  },
+  "players": {
+    "title": "购买 FC26 球员",
+    "description": "精选热门球员直接送到您的俱乐部。选择平台和球员，我们安全完成转会。"
+  },
+  "sbc": {
+    "title": "FC26 SBC 代完成服务",
+    "description": "专业交易员为您完成阵容挑战——便宜、快速、不影响您的阵容。"
+  },
+  "packs": {
+    "title": "购买 FC26 卡包",
+    "description": "在您的账户上开启卡包，内容有保障。选择套餐，坐等爆卡。"
+  }
+}

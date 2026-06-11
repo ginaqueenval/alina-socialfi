@@ -1,0 +1,88 @@
+// Sample FC26 pack opening catalog. Same { en, zh } text convention as
+// players.js; swap to an API call in catalog.js when the backend is ready.
+export const PACKS = [
+  {
+    id: "pack-gold-premium",
+    category: "packs",
+    name: { en: "Premium Gold Pack ×10", zh: "高级金卡包 ×10" },
+    contents: {
+      en: "10 premium gold packs opened on your account — 120 gold items total.",
+      zh: "在您的账户开启 10 个高级金卡包，共 120 张金卡。",
+    },
+    platforms: ["PlayStation", "Xbox", "PC"],
+    price: 5.99,
+    currency: "USD",
+    eta: "15-60 min",
+    badge: "bestValue",
+  },
+  {
+    id: "pack-rare-players",
+    category: "packs",
+    name: { en: "Rare Players Pack", zh: "稀有球员卡包" },
+    contents: {
+      en: "12 rare gold players, minimum 75 rated — the classic banger pack.",
+      zh: "12 名稀有金卡球员，最低 75 评分，经典爆卡包。",
+    },
+    platforms: ["PlayStation", "Xbox", "PC"],
+    price: 14.99,
+    currency: "USD",
+    eta: "15-60 min",
+    badge: "hot",
+  },
+  {
+    id: "pack-ultimate",
+    category: "packs",
+    name: { en: "Ultimate Pack", zh: "终极卡包" },
+    contents: {
+      en: "30 gold rare items — the biggest pack in the game, opened live for you.",
+      zh: "30 张稀有金卡，游戏内最大卡包，全程直播开启。",
+    },
+    platforms: ["PlayStation", "Xbox", "PC"],
+    price: 24.99,
+    currency: "USD",
+    eta: "15-60 min",
+    badge: null,
+  },
+  {
+    id: "pack-players-83",
+    category: "packs",
+    name: { en: "83+ Player Pick ×5", zh: "83+ 球员自选 ×5" },
+    contents: {
+      en: "Five 83+ rated player picks — choose the best option from each pull.",
+      zh: "5 次 83+ 评分球员自选，每次抽取可挑选最优。",
+    },
+    platforms: ["PlayStation", "Xbox", "PC"],
+    price: 11.99,
+    currency: "USD",
+    eta: "15-60 min",
+    badge: "new",
+  },
+  {
+    id: "pack-toty-guarantee",
+    category: "packs",
+    name: { en: "Guaranteed Promo Pack", zh: "活动卡保底卡包" },
+    contents: {
+      en: "One guaranteed live-promo player (TOTW or better) plus 11 gold items.",
+      zh: "保底 1 名活动球员（周最佳或更高）外加 11 张金卡。",
+    },
+    platforms: ["PlayStation", "Xbox", "PC"],
+    price: 19.99,
+    currency: "USD",
+    eta: "15-60 min",
+    badge: null,
+  },
+  {
+    id: "pack-starter-bundle",
+    category: "packs",
+    name: { en: "Starter Bundle", zh: "新手礼包" },
+    contents: {
+      en: "Mixed bundle for new clubs: 2 premium gold + 1 rare players pack.",
+      zh: "新俱乐部混合礼包：2 个高级金卡包 + 1 个稀有球员卡包。",
+    },
+    platforms: ["PlayStation", "Xbox", "PC"],
+    price: 8.99,
+    currency: "USD",
+    eta: "15-60 min",
+    badge: null,
+  },
+];
